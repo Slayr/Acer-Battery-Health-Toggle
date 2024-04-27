@@ -1,0 +1,8 @@
+{
+  "name": "Acer Battery Health Toggle",
+  "description": "Toggle the Acer Battery charging threshold using acer_batter_wmi",
+  "uuid": "rishi.kid@outlook.com",
+  "shell-version": [
+    "46"
+  ]
+}
